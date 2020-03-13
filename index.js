@@ -6,8 +6,6 @@ var greetSpecialGuest = "" + specialGuest + "!";
 
 var topic = "space";
 
-var conversation = `${topic}`;
-
-Console.log(greeting)
+var conversation = `${to
 
 
